@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python and Django programing
 - 🌱 I’m currently learning Django
 - 💞️ i'm looking to collaborate on website development
+- 🗣️ also I'm wordpres developer
 - 📫 you can reach me on my social's linl in bio
 
 
