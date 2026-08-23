@@ -22,39 +22,17 @@
 
 <br>
 
-<a href="https://farazwebmaster.ir">
-<img src="https://img.icons8.com/color/96/domain.png" width="44" height="44" alt="Website">
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/faraz_rze">
-<img src="https://img.icons8.com/color/96/instagram-new.png" width="44" height="44" alt="Instagram">
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://t.me/faraz_rze">
-<img src="https://img.icons8.com/color/96/telegram-app.png" width="44" height="44" alt="Telegram">
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://wa.me/989128189597">
-<img src="https://img.icons8.com/color/96/whatsapp.png" width="44" height="44" alt="WhatsApp">
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/faraz-rze/">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="44" height="44" alt="LinkedIn">
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/farazrze">
-<img src="https://img.icons8.com/fluency/96/github.png" width="44" height="44" alt="GitHub">
-</a>
+<a href="https://farazwebmaster.ir"><img src="https://img.icons8.com/color/96/domain.png" width="40" height="40" alt="Website"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/faraz_rze"><img src="https://img.icons8.com/color/96/instagram-new.png" width="40" height="40" alt="Instagram"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/faraz_rze"><img src="https://img.icons8.com/color/96/telegram-app.png" width="40" height="40" alt="Telegram"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/989128189597"><img src="https://img.icons8.com/color/96/whatsapp.png" width="40" height="40" alt="WhatsApp"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/faraz-rze/"><img src="https://img.icons8.com/color/96/linkedin.png" width="40" height="40" alt="LinkedIn"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/farazrze"><img src="https://img.icons8.com/fluency/96/github.png" width="40" height="40" alt="GitHub"></a>
 
 </div>
 
