@@ -2,18 +2,15 @@
 
 # 👋 Hey, I'm Faraz
 
-### `Python Developer` • `WordPress Developer` • `Web Designer`
+### `Python Developer` • `Django Developer` • `WordPress Developer`
 
 <p>
-  I build modern websites, web applications and automation systems.
+  I build modern web applications, professional websites, Python applications and AI-powered solutions.
 </p>
 
 <p>
-  <a href="https://github.com/farazrze">
-    <img src="https://img.shields.io/github/followers/farazrze?label=Followers&style=for-the-badge&logo=github">
-  </a>
   <a href="https://github.com/farazrze?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/github/repos/farazrze?label=Repositories&style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -23,19 +20,20 @@
 
 ## 🧑‍💻 About Me
 
-I'm a developer focused on building **practical, modern and scalable digital solutions**.
+I'm a **Python-focused developer** specializing in building applications and practical digital solutions.
 
-My main areas of work include:
+My main areas of expertise include:
 
-* 🐍 Python development
-* 🌐 WordPress & Elementor
-* ⚙️ Django web applications
-* 🤖 Google Apps Script & automation
-* 💻 Front-end development
-* 🔐 Secure web systems
-* 🚀 Business-oriented web solutions
+* 🐍 Python Development
+* 🌐 Django Web Development
+* 🖥️ Professional WordPress Website Design
+* 🤖 Artificial Intelligence & AI-powered Solutions
+* 📱 Building Different Types of Applications with Python
+* 🎨 Logo Design
+* 🧊 3D Website Design
+* 💻 Basic knowledge of HTML & CSS
 
-I enjoy turning real-world problems into simple and efficient software.
+I enjoy turning ideas and real-world problems into functional, modern and user-friendly digital products.
 
 ---
 
@@ -43,27 +41,55 @@ I enjoy turning real-world problems into simple and efficient software.
 
 <div align="center">
 
-### Languages
+### Programming & Framework
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,php" />
+<img src="https://skillicons.dev/icons?i=python,django" />
 
-### Frameworks & Platforms
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=django,wordpress,mysql" />
+<img src="https://skillicons.dev/icons?i=wordpress,html,css" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 What I Do
+
+### 🐍 Python Development
+
+Building different types of applications and software with Python, from automation tools to practical business applications.
+
+### 🌐 Django
+
+Developing web applications and backend systems using Django.
+
+### 🖥️ WordPress
+
+Professional website design and development using WordPress, with a focus on modern UI, responsive design and business requirements.
+
+### 🤖 Artificial Intelligence
+
+Working with AI technologies and building AI-powered solutions and applications.
+
+### 🧊 3D Web Design
+
+Creating modern and visually engaging 3D website experiences.
+
+### 🎨 Logo Design
+
+Designing modern and professional logos for brands and businesses.
+
+---
+
+# 🔥 Featured Project
 
 ## 🎟️ VIP Guest QR Management System
 
-> A secure VIP invitation and one-time QR verification platform built for a luxury café.
+A luxury VIP invitation and one-time QR verification system designed for a café.
 
 ### Features
 
@@ -86,39 +112,7 @@ I enjoy turning real-world problems into simple and efficient software.
 
 ---
 
-## 🌐 WordPress Projects
-
-Building modern, responsive and conversion-focused websites using:
-
-`WordPress` `Elementor` `WooCommerce` `Custom CSS` `JavaScript`
-
----
-
-# 🧠 Currently Learning
-
-```text
-Python
-├── OOP
-├── APIs
-├── Automation
-└── Backend Development
-
-Django
-├── Web Applications
-├── Authentication
-├── APIs
-└── Database Design
-
-Web Development
-├── JavaScript
-├── WordPress
-├── Responsive Design
-└── Performance Optimization
-```
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -136,37 +130,29 @@ Web Development
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=farazrze&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-
-</div>
-
----
-
-# 💡 My Development Philosophy
+# 💡 Development Philosophy
 
 > **Build things that solve real problems.**
 
-I believe good software isn't just about writing code.
+I believe great software is not just about writing code.
 
 It's about:
 
-**Problem → Design → Development → Security → User Experience → Solution**
+**Idea → Design → Development → AI → Security → User Experience → Solution**
 
 ---
 
-# 📈 What I'm Building
+# 🚀 Areas of Work
 
 ```text
-🚀 Web Applications
-🔐 Secure Authentication Systems
-🤖 Automation Tools
-🎟️ QR-based Systems
-🌐 Business Websites
-🐍 Python Applications
+🐍 Python Development
+🌐 Django Web Applications
+🖥️ WordPress Websites
+🤖 Artificial Intelligence
+📱 Python Applications
+🧊 3D Web Design
+🎨 Logo Design
+⚙️ Automation & Digital Solutions
 ```
 
 ---
@@ -175,8 +161,20 @@ It's about:
 
 <div align="center">
 
-<a href="https://github.com/farazrze">
-<img src="https://img.shields.io/badge/GitHub-Faraz-black?style=for-the-badge&logo=github">
+<a href="https://farazwebmaster.ir">
+<img src="https://img.shields.io/badge/Website-farazwebmaster.ir-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://instagram.com/faraz_rze">
+<img src="https://img.shields.io/badge/Instagram-faraz__rze-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://t.me/faraz_rze">
+<img src="https://img.shields.io/badge/Telegram-faraz__rze-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://wa.me/989128189597">
+<img src="https://img.shields.io/badge/WhatsApp-09128189597-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 </div>
@@ -185,7 +183,7 @@ It's about:
 
 <div align="center">
 
-### ⚡ Code. Build. Automate. Repeat.
+### ⚡ Build. Create. Innovate.
 
 <img src="https://komarev.com/ghpvc/?username=farazrze&label=Profile%20Views&color=blue&style=flat" />
 
