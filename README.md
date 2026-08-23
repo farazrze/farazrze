@@ -12,7 +12,37 @@
 <br>
 
 <a href="https://github.com/farazrze?tab=repositories">
-<img src="https://img.shields.io/github/repositories/farazrze?style=for-the-badge&logo=github&logoColor=white&label=Repositories">
+<img src="https://img.shields.io/badge/📦%20Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://farazwebmaster.ir">
+<img src="https://img.shields.io/badge/🌐%20Website-farazwebmaster.ir-111111?style=for-the-badge">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/faraz_rze">
+<img src="https://img.shields.io/badge/📸%20Instagram-faraz__rze-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://t.me/faraz_rze">
+<img src="https://img.shields.io/badge/✈️%20Telegram-faraz__rze-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://wa.me/989128189597">
+<img src="https://img.shields.io/badge/💬%20WhatsApp-09128189597-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 </div>
@@ -46,19 +76,27 @@ modern and visually impressive digital products.
 
 ### 🐍 Development
 
-<img src="https://skillicons.dev/icons?i=python,django,wordpress,html,css,git,github,docker,vscode,pycharm" />
+<img src="https://skillicons.dev/icons?i=python,django,wordpress,html,css" />
 
 <br><br>
 
-### 🤖 AI & Creative Tools
+### 🛠️ Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm,linux,apple" />
+
+<br><br>
+
+### 🎨 Design & Office
 
 <img src="https://skillicons.dev/icons?i=photoshop" />
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/CorelDRAW-00A651?style=for-the-badge&logo=coreldraw&logoColor=white">
 
 </div>
 
