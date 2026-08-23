@@ -230,6 +230,6 @@ Creating professional logos and visual identities for brands and businesses.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=farazrze&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views">
+
 
 </div>
