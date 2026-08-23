@@ -186,15 +186,11 @@ Creating professional logos and visual identities for brands and businesses.
 
 <div align="center">
 
-<a href="https://github.com/farazrze">
-<img src="https://github-readme-stats.vercel.app/api?username=farazrze&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Faraz's GitHub Stats">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=farazrze&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
 
 <br><br>
 
-<a href="https://github.com/farazrze">
-<img src="https://streak-stats.demolab.com/?user=farazrze&theme=tokyonight&hide_border=true" alt="Faraz's GitHub Streak">
-</a>
+<img src="https://streak-stats.demolab.com?user=farazrze&theme=tokyonight&hide_border=true">
 
 </div>
 
