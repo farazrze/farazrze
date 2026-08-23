@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # 👋 Hey, I'm Faraz
@@ -244,4 +244,4 @@ Creating professional logos and visual identities for brands and businesses.
 <img src="https://komarev.com/ghpvc/?username=farazrze&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views">
 
 </div>
-```
+
