@@ -200,3 +200,38 @@ and businesses.
 📊 Google Sheets Database
 📱 Mobile-First Interface
 ✨ Luxury UI/UX
+
+📊 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=farazrze&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=farazrze&theme=tokyonight&hide_border=true" /> </div>
+
+
+💡 Development Philosophy
+<div align="center">
+✦ Build things that solve real problems. ✦
+<br>
+
+Idea → Design → Development → AI → Security → UX → Solution
+
+</div>
+🚀 Areas of Work
+<div align="center">
+╔══════════════════════════════════════╗
+║                                      ║
+║  🐍 Python Development               ║
+║  ⚡ Django Web Applications          ║
+║  🌐 WordPress Websites               ║
+║  🤖 Artificial Intelligence          ║
+║  📱 Python Applications              ║
+║  🧊 3D Web Design                    ║
+║  🎨 Logo Design                      ║
+║  ⚙️ Automation & Digital Solutions   ║
+║                                      ║
+╚══════════════════════════════════════╝
+</div>
+<div align="center">
+⚡ Build • Create • Innovate ⚡
+<br> <img src="https://komarev.com/ghpvc/?username=farazrze&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views"> </div>
