@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hey, I'm Faraz
@@ -21,28 +20,40 @@
 
 ## ✦ Connect With Me ✦
 
+<br>
+
 <a href="https://farazwebmaster.ir">
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" alt="Website">
+<img src="https://img.icons8.com/color/96/domain.png" width="44" height="44" alt="Website">
 </a>
-&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://instagram.com/faraz_rze">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram">
+<img src="https://img.icons8.com/color/96/instagram-new.png" width="44" height="44" alt="Instagram">
 </a>
-&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://t.me/faraz_rze">
-<img src="https://cdn.simpleicons.org/telegram/229ED9" width="40" height="40" alt="Telegram">
+<img src="https://img.icons8.com/color/96/telegram-app.png" width="44" height="44" alt="Telegram">
 </a>
-&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://wa.me/989128189597">
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp">
+<img src="https://img.icons8.com/color/96/whatsapp.png" width="44" height="44" alt="WhatsApp">
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/faraz-rze">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/faraz-rze/">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="44" height="44" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/farazrze">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub">
+<img src="https://img.icons8.com/fluency/96/github.png" width="44" height="44" alt="GitHub">
 </a>
 
 </div>
@@ -197,11 +208,15 @@ Creating professional logos and visual identities for brands and businesses.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=farazrze&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+<a href="https://github.com/farazrze">
+<img src="https://github-readme-stats.vercel.app/api?username=farazrze&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Faraz's GitHub Stats">
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=farazrze&theme=tokyonight&hide_border=true">
+<a href="https://github.com/farazrze">
+<img src="https://streak-stats.demolab.com/?user=farazrze&theme=tokyonight&hide_border=true" alt="Faraz's GitHub Streak">
+</a>
 
 </div>
 
@@ -241,7 +256,6 @@ Creating professional logos and visual identities for brands and businesses.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=farazrze&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=farazrze&label=Profile%20Views&style=for-the-badge" alt="Profile Views">
 
 </div>
-
