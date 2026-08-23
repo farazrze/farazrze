@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/🌐%20Website-farazwebmaster.ir-111111?style=for-the-badge">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/faraz_rze">
 <img src="https://img.shields.io/badge/📸%20Instagram-faraz__rze-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/✈️%20Telegram-faraz__rze-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/989128189597">
 <img src="https://img.shields.io/badge/💬%20WhatsApp-09128189597-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
@@ -90,13 +90,19 @@ modern and visually impressive digital products.
 
 <img src="https://skillicons.dev/icons?i=photoshop" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
 <img src="https://img.shields.io/badge/CorelDRAW-00A651?style=for-the-badge&logo=coreldraw&logoColor=white">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 
 </div>
 
@@ -106,6 +112,7 @@ modern and visually impressive digital products.
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🐍 Python Development
@@ -122,9 +129,11 @@ from automation tools to practical business applications.
 Developing modern web applications and backend systems using Django.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🌐 WordPress
@@ -142,9 +151,11 @@ Working with AI technologies and building AI-powered applications
 and smart digital solutions.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🧊 3D Web Design
@@ -161,6 +172,7 @@ Creating professional logos and visual identities for brands
 and businesses.
 
 </td>
+
 </tr>
 </table>
 
