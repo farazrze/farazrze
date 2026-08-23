@@ -8,11 +8,7 @@
   I build modern web applications, professional websites, Python applications and AI-powered solutions.
 </p>
 
-<p>
-  <a href="https://github.com/farazrze?tab=repositories">
-    <img src="https://img.shields.io/github/repos/farazrze?label=Repositories&style=for-the-badge&logo=github">
-  </a>
-</p>
+
 
 </div>
 
