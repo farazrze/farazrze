@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # 👋 Hey, I'm Faraz
@@ -16,55 +17,33 @@
 
 ---
 
-# 📫 Let's Connect
-
 <div align="center">
 
+## ✦ Connect With Me ✦
+
 <a href="https://farazwebmaster.ir">
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="42" height="42" alt="Website">
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" alt="Website">
 </a>
-&nbsp;&nbsp;
-<a href="https://farazwebmaster.ir">farazwebmaster.ir</a>
-
-<br><br>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/faraz_rze">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram">
 </a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/faraz_rze">instagram.com/faraz_rze</a>
-
-<br><br>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/faraz_rze">
-<img src="https://cdn.simpleicons.org/telegram/229ED9" width="42" height="42" alt="Telegram">
+<img src="https://cdn.simpleicons.org/telegram/229ED9" width="40" height="40" alt="Telegram">
 </a>
-&nbsp;&nbsp;
-<a href="https://t.me/faraz_rze">t.me/faraz_rze</a>
-
-<br><br>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/989128189597">
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="42" height="42" alt="WhatsApp">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp">
 </a>
-&nbsp;&nbsp;
-<a href="https://wa.me/989128189597">WhatsApp • 09128189597</a>
-
-<br><br>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/faraz-rze">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/faraz-rze">linkedin.com/in/faraz-rze</a>
-
-<br><br>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/farazrze">
-<img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub">
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/farazrze">github.com/farazrze</a>
 
 </div>
 
@@ -265,3 +244,4 @@ Creating professional logos and visual identities for brands and businesses.
 <img src="https://komarev.com/ghpvc/?username=farazrze&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views">
 
 </div>
+```
