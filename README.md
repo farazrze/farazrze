@@ -186,7 +186,7 @@ Creating professional logos and visual identities for brands and businesses.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=farazrze&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+
 
 <br><br>
 
