@@ -20,19 +20,51 @@
 
 <div align="center">
 
-<a href="https://farazwebmaster.ir"><img src="https://img.shields.io/badge/🌐%20Website-farazwebmaster.ir-111111?style=for-the-badge"></a>
-
+<a href="https://farazwebmaster.ir">
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="42" height="42" alt="Website">
+</a>
 &nbsp;&nbsp;
+<a href="https://farazwebmaster.ir">farazwebmaster.ir</a>
 
-<a href="https://instagram.com/faraz_rze"><img src="https://img.shields.io/badge/📸%20Instagram-faraz__rze-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<br><br>
 
+<a href="https://instagram.com/faraz_rze">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram">
+</a>
 &nbsp;&nbsp;
+<a href="https://instagram.com/faraz_rze">instagram.com/faraz_rze</a>
 
-<a href="https://t.me/faraz_rze"><img src="https://img.shields.io/badge/✈️%20Telegram-faraz__rze-229ED9?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<br><br>
 
+<a href="https://t.me/faraz_rze">
+<img src="https://cdn.simpleicons.org/telegram/229ED9" width="42" height="42" alt="Telegram">
+</a>
 &nbsp;&nbsp;
+<a href="https://t.me/faraz_rze">t.me/faraz_rze</a>
 
-<a href="https://wa.me/989128189597"><img src="https://img.shields.io/badge/💬%20WhatsApp-09128189597-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<br><br>
+
+<a href="https://wa.me/989128189597">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="42" height="42" alt="WhatsApp">
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/989128189597">WhatsApp • 09128189597</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/faraz-rze">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/faraz-rze">linkedin.com/in/faraz-rze</a>
+
+<br><br>
+
+<a href="https://github.com/farazrze">
+<img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/farazrze">github.com/farazrze</a>
 
 </div>
 
@@ -186,7 +218,7 @@ Creating professional logos and visual identities for brands and businesses.
 
 <div align="center">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=farazrze&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
 
 <br><br>
 
@@ -230,6 +262,6 @@ Creating professional logos and visual identities for brands and businesses.
 
 <br>
 
-
+<img src="https://komarev.com/ghpvc/?username=farazrze&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views">
 
 </div>
