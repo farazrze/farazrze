@@ -8,10 +8,16 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=farazrze&label=Profile%20Views&style=for-the-badge" alt="Profile Views">
+<a href="https://github.com/farazrze">
+<img src="https://komarev.com/ghpvc/?username=farazrze&label=Profile%20Views&color=22c55e&style=for-the-badge&labelColor=181717" alt="Profile Views">
+</a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://farazwebmaster.ir/">
-<img src="https://img.shields.io/badge/🌐%20Website-farazwebmaster.ir-181717?style=for-the-badge" alt="Website">
+<img src="https://img.shields.io/badge/🌐%20Website-FFD700?style=for-the-badge&labelColor=181717" alt="Website">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://farazwebmaster.ir/faraz-cv">
+<img src="https://img.shields.io/badge/📄%20My%20Resume-ff1493?style=for-the-badge&labelColor=181717" alt="My Resume">
 </a>
 
 </div>
@@ -222,9 +228,5 @@ Creating professional logos and visual identities for brands and businesses.
 <div align="center">
 
 ### ⚡ Build • Create • Innovate ⚡
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=farazrze&label=Profile%20Views&style=for-the-badge" alt="Profile Views">
 
 </div>
