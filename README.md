@@ -13,14 +13,15 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://farazwebmaster.ir/">
-<img src="https://img.shields.io/badge/🌐%20Website-FFD700?style=for-the-badge&labelColor=181717" alt="Website">
+<img src="https://img.shields.io/badge/🌐%20Website-F4C95D?style=for-the-badge&labelColor=181717" alt="Website">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://farazwebmaster.ir/faraz-cv">
-<img src="https://img.shields.io/badge/📄%20My%20Resume-ff1493?style=for-the-badge&labelColor=181717" alt="My Resume">
+<img src="https://img.shields.io/badge/✨%20My%20Resume-FF1493?style=for-the-badge&labelColor=181717" alt="My Resume">
 </a>
 
 </div>
+
 
 ---
 
