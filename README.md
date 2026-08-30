@@ -8,8 +8,10 @@
 
 <br>
 
-<a href="https://github.com/farazrze?tab=repositories">
-<img src="https://img.shields.io/badge/📦%20Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://komarev.com/ghpvc/?username=farazrze&label=Profile%20Views&style=for-the-badge" alt="Profile Views">
+&nbsp;&nbsp;&nbsp;
+<a href="https://farazwebmaster.ir/">
+<img src="https://img.shields.io/badge/🌐%20Website-farazwebmaster.ir-181717?style=for-the-badge" alt="Website">
 </a>
 
 </div>
@@ -23,16 +25,11 @@
 <br>
 
 <a href="https://farazwebmaster.ir"><img src="https://img.icons8.com/color/96/domain.png" width="40" height="40" alt="Website"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/faraz_rze"><img src="https://img.icons8.com/color/96/instagram-new.png" width="40" height="40" alt="Instagram"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/faraz_rze"><img src="https://img.icons8.com/color/96/telegram-app.png" width="40" height="40" alt="Telegram"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/989128189597"><img src="https://img.icons8.com/color/96/whatsapp.png" width="40" height="40" alt="WhatsApp"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/faraz-rze/"><img src="https://img.icons8.com/color/96/linkedin.png" width="40" height="40" alt="LinkedIn"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/farazrze"><img src="https://img.icons8.com/fluency/96/github.png" width="40" height="40" alt="GitHub"></a>
+    <a href="https://instagram.com/faraz_rze"><img src="https://img.icons8.com/color/96/instagram-new.png" width="40" height="40" alt="Instagram"></a>
+    <a href="https://t.me/faraz_rze"><img src="https://img.icons8.com/color/96/telegram-app.png" width="40" height="40" alt="Telegram"></a>
+    <a href="https://wa.me/989128189597"><img src="https://img.icons8.com/color/96/whatsapp.png" width="40" height="40" alt="WhatsApp"></a>
+    <a href="https://www.linkedin.com/in/faraz-rze/"><img src="https://img.icons8.com/color/96/linkedin.png" width="40" height="40" alt="LinkedIn"></a>
+    <a href="https://github.com/farazrze"><img src="https://img.icons8.com/fluency/96/github.png" width="40" height="40" alt="GitHub"></a>
 
 </div>
 
@@ -44,14 +41,14 @@ I'm a **Python-focused developer** specializing in building practical, modern an
 
 ### 💻 My Expertise
 
-- 🐍 Python Development
-- ⚡ Django Web Development
-- 🌐 Professional WordPress Website Design
-- 🤖 Artificial Intelligence & AI-powered Solutions
-- 📱 Building Different Types of Applications with Python
-- 🧊 3D Website Design
-- 🎨 Logo Design
-- 💻 Basic knowledge of HTML & CSS
+* 🐍 Python Development
+* ⚡ Django Web Development
+* 🌐 Professional WordPress Website Design
+* 🤖 Artificial Intelligence & AI-powered Solutions
+* 📱 Building Different Types of Applications with Python
+* 🧊 3D Website Design
+* 🎨 Logo Design
+* 💻 Basic knowledge of HTML & CSS
 
 I enjoy turning ideas and real-world problems into functional, modern and visually impressive digital products.
 
@@ -163,17 +160,17 @@ Creating professional logos and visual identities for brands and businesses.
 
 ### ✨ Features
 
-🔐 Admin & Staff Authentication  
-🎫 VIP Invitation Management  
-🔑 Secure Unique Tokens  
-📱 Live QR Scanning  
-🖼️ QR Detection Inside Screenshots & Images  
-🔗 Direct Invitation-Link Verification  
-♻️ One-Time QR Validation  
-🛡️ Server-Side Validation  
-🔒 Race-Condition Protection  
-📊 Google Sheets Database  
-📱 Mobile-First Interface  
+🔐 Admin & Staff Authentication
+🎫 VIP Invitation Management
+🔑 Secure Unique Tokens
+📱 Live QR Scanning
+🖼️ QR Detection Inside Screenshots & Images
+🔗 Direct Invitation-Link Verification
+♻️ One-Time QR Validation
+🛡️ Server-Side Validation
+🔒 Race-Condition Protection
+📊 Google Sheets Database
+📱 Mobile-First Interface
 ✨ Luxury UI/UX
 
 ### 🛠️ Built With
@@ -185,8 +182,6 @@ Creating professional logos and visual identities for brands and businesses.
 # 📊 GitHub Statistics
 
 <div align="center">
-
-
 
 <br><br>
 
