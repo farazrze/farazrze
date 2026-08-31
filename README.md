@@ -161,24 +161,37 @@ Creating professional logos and visual identities for brands and businesses.
 
 # 🔥 Featured Project
 
-## 🎟️ VIP Guest QR Management System
+## 🌐 AI-Assisted Django Web Application
 
-> A luxury VIP invitation and one-time QR verification system designed for a café.
+> A modern, high-performance web application built with **Django**, featuring a fully AI-assisted frontend and a custom backend architecture developed from scratch.
 
-### ✨ Features
+### ✨ Project Highlights
 
-🔐 Admin & Staff Authentication
-🎫 VIP Invitation Management
-🔑 Secure Unique Tokens
-📱 Live QR Scanning
-🖼️ QR Detection Inside Screenshots & Images
-🔗 Direct Invitation-Link Verification
-♻️ One-Time QR Validation
-🛡️ Server-Side Validation
-🔒 Race-Condition Protection
-📊 Google Sheets Database
-📱 Mobile-First Interface
-✨ Luxury UI/UX
+🤖 AI-Assisted Frontend Development<br>
+🎨 Modern & Responsive UI/UX<br>
+⚡ Faster Development & Delivery<br>
+💰 Lower Development Cost by reducing frontend development overhead<br>
+🐍 Custom Django Backend fully developed by me<br>
+🔐 Secure Backend Architecture<br>
+🗄️ Database Design & Management<br>
+🔌 API Development & Integration<br>
+🛡️ Server-Side Validation & Security<br>
+📱 Mobile-First Interface<br>
+🚀 Scalable Application Architecture
+
+### 💡 Why AI-Assisted Development?
+
+By using AI for the frontend development process, the project was delivered **faster and with lower development costs**, without compromising the quality of the backend.
+
+Instead of requiring a separate frontend developer, AI was used to accelerate the UI implementation, while the **entire backend architecture, business logic, APIs, database structure, authentication and server-side security were designed and developed by me using Django.**
+
+### 🛠️ Built With
+
+`Python` • `Django` • `AI` • `HTML` • `CSS` • `JavaScript` • `Database` • `REST API`
+
+### 🎯 Result
+
+**AI-powered frontend development + custom Django backend = Faster delivery, lower cost, and a complete production-ready web application.**
 
 ### 🛠️ Built With
 
