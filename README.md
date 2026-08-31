@@ -192,10 +192,6 @@ Instead of requiring a separate frontend developer, AI was used to accelerate th
 
 **AI-powered frontend development + custom Django backend = Faster delivery, lower cost, and a complete production-ready web application.**
 
-### 🛠️ Built With
-
-`Google Apps Script` • `Google Sheets` • `HTML` • `CSS` • `JavaScript`
-
 ---
 
 # 📊 GitHub Statistics
