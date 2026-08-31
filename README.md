@@ -161,10 +161,9 @@ Creating professional logos and visual identities for brands and businesses.
 
 # 🔥 Featured Project
 
-## 🌐 AI-Assisted Django Web Application
+## 🌐 Django Backend • AI-Assisted Frontend
 
-> A modern, high-performance web application built with **Django**, featuring a fully AI-assisted frontend and a custom backend architecture developed from scratch.
-
+> A modern web application with a **fully custom Django backend developed entirely by me**, while the **frontend is designed and implemented with the assistance of AI** — enabling faster development, lower costs, and efficient delivery without the need for a separate frontend developer.
 ### ✨ Project Highlights
 
 🤖 AI-Assisted Frontend Development<br>
