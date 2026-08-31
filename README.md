@@ -159,7 +159,7 @@ Creating professional logos and visual identities for brands and businesses.
 
 ---
 
-# 🔥 Featured Project
+# 🚀 Currently in Development
 
 ## 🌐 Django Backend • AI-Assisted Frontend
 
