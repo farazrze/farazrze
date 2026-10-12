@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Profile Banner">
+</p>
+
 # 👋 Hey, I'm Faraz
 
 ### 🐍 Python Developer • ⚡ Django Developer • 🌐 WordPress Developer
